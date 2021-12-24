@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "rdma_common.h": "c",
+        "rdma_cma.h": "c"
+    }
+}

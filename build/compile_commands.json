@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/kyo/cpp/rdma-example/build",
+  "command": "/usr/bin/cc -I../src -I/home/atr/local/include -O3 -DNDEBUG -o CMakeFiles/rdma_client.dir/src/rdma_common.c.o -c /home/kyo/cpp/rdma-example/src/rdma_common.c",
+  "file": "/home/kyo/cpp/rdma-example/src/rdma_common.c"
+},
+{
+  "directory": "/home/kyo/cpp/rdma-example/build",
+  "command": "/usr/bin/cc -I../src -I/home/atr/local/include -O3 -DNDEBUG -o CMakeFiles/rdma_client.dir/src/rdma_client.c.o -c /home/kyo/cpp/rdma-example/src/rdma_client.c",
+  "file": "/home/kyo/cpp/rdma-example/src/rdma_client.c"
+},
+{
+  "directory": "/home/kyo/cpp/rdma-example/build",
+  "command": "/usr/bin/cc -I../src -I/home/atr/local/include -O3 -DNDEBUG -o CMakeFiles/rdma_server.dir/src/rdma_common.c.o -c /home/kyo/cpp/rdma-example/src/rdma_common.c",
+  "file": "/home/kyo/cpp/rdma-example/src/rdma_common.c"
+},
+{
+  "directory": "/home/kyo/cpp/rdma-example/build",
+  "command": "/usr/bin/cc -I../src -I/home/atr/local/include -O3 -DNDEBUG -o CMakeFiles/rdma_server.dir/src/rdma_server.c.o -c /home/kyo/cpp/rdma-example/src/rdma_server.c",
+  "file": "/home/kyo/cpp/rdma-example/src/rdma_server.c"
+}
+]
